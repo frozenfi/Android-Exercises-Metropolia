@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">A05</string>
+    <string name="hit_me">HIT ME!</string>
+    <string name="button_reset">RESET</string>
+    <string name="txt_creations">Creations</string>
+    <string name="txt_hits">Hits</string>
+    <string name="txt_visibles">Visibles</string>
+    <string name="text_creations">Creations</string>
+    <string name="initial_value">0</string>
+</resources>

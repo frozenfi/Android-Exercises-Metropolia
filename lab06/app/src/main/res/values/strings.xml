@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab06</string>
+    <string name="president_name">President name</string>
+    <string name="presidency_start">Presidency Start</string>
+    <string name="presidency_end">Presidency End</string>
+    <string name="speciality">Speciality</string>
+</resources>

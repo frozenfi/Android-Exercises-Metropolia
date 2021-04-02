@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assighment2</string>
+    <string name="plus">PLUS</string>
+    <string name="minus">MINUS</string>
+    <string name="reset">RESET</string>
+    <string name="counterSet">0</string>
+</resources>

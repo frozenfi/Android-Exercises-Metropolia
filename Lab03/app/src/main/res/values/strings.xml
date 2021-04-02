@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="dec">DEC</string>
+    <string name="hex">HEX</string>
+    <string name="bin">BIN</string>
+    <string name="plus"> + </string>
+    <string name="minus"> - </string>
+    <string name="rstbtn"> Reset button </string>
+    <string name="counter">0</string>
+</resources>
